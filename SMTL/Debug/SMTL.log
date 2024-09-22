@@ -1,0 +1,9 @@
+﻿  game.cpp
+d:\南台\vs\smtl\smtl\smtl\game.cpp(304): warning C4018: '<': signed/unsigned 不相符
+d:\南台\vs\smtl\smtl\smtl\game.cpp(332): warning C4018: '<': signed/unsigned 不相符
+d:\南台\vs\smtl\smtl\smtl\game.cpp(363): warning C4018: '<': signed/unsigned 不相符
+d:\南台\vs\smtl\smtl\smtl\game.cpp(384): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\南台\vs\smtl\smtl\smtl\game.cpp(458): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+d:\南台\vs\smtl\smtl\smtl\game.cpp(547): warning C4018: '<': signed/unsigned 不相符
+d:\南台\vs\smtl\smtl\smtl\game.cpp(551): warning C4018: '<': signed/unsigned 不相符
+  SMTL.vcxproj -> D:\南台\VS\SMTL\SMTL\Debug\SMTL.exe

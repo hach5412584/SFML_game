@@ -1,0 +1,10 @@
+baron 860
+baron 410
+baron 364
+baron 324
+JOJ 300
+JOJ 300
+cc 300
+test 210
+baron 194
+baron 152
